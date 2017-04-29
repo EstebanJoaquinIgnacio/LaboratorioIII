@@ -1,0 +1,4 @@
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\ControlesMios\bin\Debug\ControlesMios.dll
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\ControlesMios\bin\Debug\ControlesMios.pdb
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\ControlesMios\obj\Debug\ControlesMios.dll
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\ControlesMios\obj\Debug\ControlesMios.pdb

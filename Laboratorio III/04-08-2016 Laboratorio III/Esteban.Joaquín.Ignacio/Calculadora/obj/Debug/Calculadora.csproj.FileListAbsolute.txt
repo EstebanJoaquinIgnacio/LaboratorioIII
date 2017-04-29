@@ -1,0 +1,17 @@
+D:\Esteban Joaquin\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Esteban Joaquin\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\bin\Debug\Calculadora.exe
+D:\Esteban Joaquin\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\bin\Debug\Calculadora.pdb
+D:\Esteban Joaquin\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Esteban Joaquin\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Esteban Joaquin\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\Esteban Joaquin\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.exe
+D:\Esteban Joaquin\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.pdb
+E:\Joako\FACU\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Joako\FACU\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.exe
+E:\Joako\FACU\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.pdb
+E:\Joako\FACU\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\bin\Debug\Calculadora.exe
+E:\Joako\FACU\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\bin\Debug\Calculadora.pdb
+E:\Joako\FACU\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\Joako\FACU\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.Form1.resources
+E:\Joako\FACU\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Joako\FACU\Laboratorio\04-08-2016 Laboratorio III\Esteban.Joaquín.Ignacio\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache

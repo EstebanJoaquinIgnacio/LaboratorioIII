@@ -1,0 +1,8 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\bin\Debug\ControlDeUsuario.05.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\bin\Debug\ControlDeUsuario.05.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.frmUserControl.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.usrConvertidorCF.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.pdb

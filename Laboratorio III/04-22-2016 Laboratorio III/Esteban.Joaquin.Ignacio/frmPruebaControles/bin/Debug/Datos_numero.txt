@@ -1,0 +1,26 @@
+Guardado: 5/5/2016 19:18:47
+Cantidad de cifras: 3
+Suma impares: 3
+Suma pares: 0
+Suma total: 3
+Mi mayor es: 1
+Mi menor es: 1
+Los divisores son: -1--3--37--111-
+
+Guardado: 5/5/2016 19:24:46
+Cantidad de cifras: 2
+Suma impares: 10
+Suma pares: 0
+Suma total: 10
+Mi mayor es: 5
+Mi menor es: 5
+Los divisores son: -1--5--11--55-
+
+Guardado: 5/5/2016 19:25:14
+Cantidad de cifras: 3
+Suma impares: 21
+Suma pares: 0
+Suma total: 21
+Mi mayor es: 7
+Mi menor es: 7
+Los divisores son: -1--3--7--21--37--111--259--777-

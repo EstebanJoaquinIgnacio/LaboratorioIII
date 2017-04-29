@@ -1,0 +1,10 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario._03.frmPropiedades.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario._03.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\MisControles.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\MisControles.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.csprojResolveAssemblyReference.cache

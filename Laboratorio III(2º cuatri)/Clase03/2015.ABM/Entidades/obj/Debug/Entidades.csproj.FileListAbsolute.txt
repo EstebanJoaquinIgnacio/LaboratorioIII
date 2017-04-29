@@ -1,0 +1,13 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.ABM\Entidades\bin\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.ABM\Entidades\bin\Debug\Entidades.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.ABM\Entidades\obj\Debug\Entidades.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.ABM\Entidades\obj\Debug\Entidades.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\2015.ABM\Entidades\bin\Debug\Entidades.dll
+C:\Users\profesor.LAB01PROFESOR\Desktop\2015.ABM\Entidades\bin\Debug\Entidades.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\2015.ABM\Entidades\obj\Debug\Entidades.dll
+C:\Users\profesor.LAB01PROFESOR\Desktop\2015.ABM\Entidades\obj\Debug\Entidades.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase03\2015.ABM\Entidades\bin\Debug\Entidades.dll
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase03\2015.ABM\Entidades\bin\Debug\Entidades.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase03\2015.ABM\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase03\2015.ABM\Entidades\obj\Debug\Entidades.dll
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase03\2015.ABM\Entidades\obj\Debug\Entidades.pdb

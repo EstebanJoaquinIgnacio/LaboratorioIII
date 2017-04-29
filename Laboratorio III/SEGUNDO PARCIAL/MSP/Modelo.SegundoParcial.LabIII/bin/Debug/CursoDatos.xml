@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <dtCursos>
+    <Codigo>1000</Codigo>
+    <Duracion>13</Duracion>
+    <Nombre>Matematica</Nombre>
+  </dtCursos>
+  <dtCursos>
+    <Codigo>1005</Codigo>
+    <Duracion>3</Duracion>
+    <Nombre>Geografia</Nombre>
+  </dtCursos>
+  <dtCursos>
+    <Codigo>1010</Codigo>
+    <Duracion>5</Duracion>
+    <Nombre>La clase de bigote</Nombre>
+  </dtCursos>
+</DocumentElement>

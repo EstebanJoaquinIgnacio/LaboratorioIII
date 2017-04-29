@@ -1,0 +1,8 @@
+D:\Esteban Joaquin\Laboratorio\05-06-2016 Laboratorio III\Esteban.Joaquin.Ignacio\Clases\bin\Debug\Clases.dll
+D:\Esteban Joaquin\Laboratorio\05-06-2016 Laboratorio III\Esteban.Joaquin.Ignacio\Clases\bin\Debug\Clases.pdb
+D:\Esteban Joaquin\Laboratorio\05-06-2016 Laboratorio III\Esteban.Joaquin.Ignacio\Clases\obj\Debug\Clases.dll
+D:\Esteban Joaquin\Laboratorio\05-06-2016 Laboratorio III\Esteban.Joaquin.Ignacio\Clases\obj\Debug\Clases.pdb
+E:\Joako\FACU\Laboratorio\05-06-2016 Laboratorio III\Esteban.Joaquin.Ignacio\Clases\bin\Debug\Clases.dll
+E:\Joako\FACU\Laboratorio\05-06-2016 Laboratorio III\Esteban.Joaquin.Ignacio\Clases\bin\Debug\Clases.pdb
+E:\Joako\FACU\Laboratorio\05-06-2016 Laboratorio III\Esteban.Joaquin.Ignacio\Clases\obj\Debug\Clases.dll
+E:\Joako\FACU\Laboratorio\05-06-2016 Laboratorio III\Esteban.Joaquin.Ignacio\Clases\obj\Debug\Clases.pdb

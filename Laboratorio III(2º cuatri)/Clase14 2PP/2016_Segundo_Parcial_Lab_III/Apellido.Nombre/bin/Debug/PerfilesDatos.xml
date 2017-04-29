@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Perfiles>
+    <Id>1</Id>
+    <Descripción>ADMINISTRADOR</Descripción>
+  </Perfiles>
+  <Perfiles>
+    <Id>4</Id>
+    <Descripción>AUDITOR</Descripción>
+  </Perfiles>
+  <Perfiles>
+    <Id>7</Id>
+    <Descripción>OPERADOR</Descripción>
+  </Perfiles>
+</DocumentElement>

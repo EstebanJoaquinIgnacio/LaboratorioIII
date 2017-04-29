@@ -1,0 +1,28 @@
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.exe
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.pdb
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Esteban.Joaquin.csprojResolveAssemblyReference.cache
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.Form1.resources
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.Properties.Resources.resources
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Esteban.Joaquin.csproj.GenerateResource.Cache
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.exe
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.pdb
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.exe.config
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.exe.config
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.exe
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.exe
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Esteban.Joaquin.csprojResolveAssemblyReference.cache
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.Form1.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.Properties.Resources.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Esteban.Joaquin.csproj.GenerateResource.Cache
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.exe.config
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Esteban.Joaquin.csprojResolveAssemblyReference.cache
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.Form1.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.Properties.Resources.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Esteban.Joaquin.csproj.GenerateResource.Cache
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase14 2PP\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.frmMostrar.resources

@@ -1,0 +1,12 @@
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\misControles\bin\Debug\misControles.dll
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\misControles\bin\Debug\misControles.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\misControles\obj\Debug\misControles.dll
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\misControles\obj\Debug\misControles.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\misControles\bin\Debug\misControles.dll
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\misControles\bin\Debug\misControles.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\misControles\obj\Debug\misControles.dll
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\misControles\obj\Debug\misControles.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\misControles\bin\Debug\misControles.dll
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\misControles\bin\Debug\misControles.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\misControles\obj\Debug\misControles.dll
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\misControles\obj\Debug\misControles.pdb

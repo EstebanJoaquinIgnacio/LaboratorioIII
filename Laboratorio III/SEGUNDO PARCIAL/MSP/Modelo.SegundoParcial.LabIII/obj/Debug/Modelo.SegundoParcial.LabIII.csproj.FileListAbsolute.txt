@@ -1,0 +1,14 @@
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe.config
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.pdb
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\bin\Debug\Entidades.dll
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\bin\Debug\Entidades.pdb
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.csprojResolveAssemblyReference.cache
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.frmAlumno.resources
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.frmPrincipal.resources
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.Properties.Resources.resources
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.csproj.GenerateResource.Cache
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.exe
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.pdb
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.inputBox.resources
+D:\UTN\Laboratorio III\MSP\MSP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.frmMostrar.resources

@@ -1,0 +1,9 @@
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\Entidades\bin\Debug\Entidades.dll
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\Entidades\bin\Debug\Entidades.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\Entidades\obj\Debug\Entidades.dll
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\Entidades\obj\Debug\Entidades.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\Entidades\bin\Debug\Entidades.dll
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\Entidades\bin\Debug\Entidades.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\Entidades\obj\Debug\Entidades.dll
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\Entidades\obj\Debug\Entidades.pdb

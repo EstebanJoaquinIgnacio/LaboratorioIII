@@ -1,0 +1,20 @@
+D:\Esteban Joaquín\18-03-2016\Esteban.Joaquín\Ejercicio ejemplo 01\bin\Debug\Ejercicio ejemplo 01.exe.config
+D:\Esteban Joaquín\18-03-2016\Esteban.Joaquín\Ejercicio ejemplo 01\bin\Debug\Ejercicio ejemplo 01.exe
+D:\Esteban Joaquín\18-03-2016\Esteban.Joaquín\Ejercicio ejemplo 01\bin\Debug\Ejercicio ejemplo 01.pdb
+D:\Esteban Joaquín\18-03-2016\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio ejemplo 01.csprojResolveAssemblyReference.cache
+D:\Esteban Joaquín\18-03-2016\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio_ejemplo_01.Properties.Resources.resources
+D:\Esteban Joaquín\18-03-2016\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio ejemplo 01.csproj.GenerateResource.Cache
+D:\Esteban Joaquín\18-03-2016\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio ejemplo 01.exe
+D:\Esteban Joaquín\18-03-2016\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio ejemplo 01.pdb
+D:\Esteban Joaquín\18-03-2016\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio_ejemplo_01.Form1.resources
+E:\Esteban Joaquín\18-03-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\bin\Debug\Ejercicio ejemplo 01.exe.config
+E:\Esteban Joaquín\18-03-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio ejemplo 01.exe
+E:\Joako\FACU\Laboratorio\03-18-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\bin\Debug\Ejercicio ejemplo 01.exe.config
+E:\Joako\FACU\Laboratorio\03-18-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio ejemplo 01.exe
+E:\Joako\FACU\Laboratorio\03-18-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\bin\Debug\Ejercicio ejemplo 01.exe
+E:\Joako\FACU\Laboratorio\03-18-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\bin\Debug\Ejercicio ejemplo 01.pdb
+E:\Joako\FACU\Laboratorio\03-18-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio ejemplo 01.csprojResolveAssemblyReference.cache
+E:\Joako\FACU\Laboratorio\03-18-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio_ejemplo_01.Form1.resources
+E:\Joako\FACU\Laboratorio\03-18-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio_ejemplo_01.Properties.Resources.resources
+E:\Joako\FACU\Laboratorio\03-18-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio ejemplo 01.csproj.GenerateResource.Cache
+E:\Joako\FACU\Laboratorio\03-18-2016 Laboratorio III\Esteban.Joaquín\Ejercicio ejemplo 01\obj\Debug\Ejercicio ejemplo 01.pdb

@@ -1,0 +1,33 @@
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\bin\Debug\Controles.exe.config
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\bin\Debug\Controles.exe
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\bin\Debug\Controles.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.exe
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\bin\Debug\misControles.dll
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\bin\Debug\misControles.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.Form1.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\bin\Debug\Controles.exe.config
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.exe
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\bin\Debug\Controles.exe
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\bin\Debug\Controles.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\bin\Debug\misControles.dll
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\bin\Debug\misControles.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.Form1.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\bin\Debug\Controles.exe.config
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\bin\Debug\Controles.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\bin\Debug\Controles.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\bin\Debug\misControles.dll
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\bin\Debug\misControles.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.Form1.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.Properties.Resources.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase05\Controles\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache

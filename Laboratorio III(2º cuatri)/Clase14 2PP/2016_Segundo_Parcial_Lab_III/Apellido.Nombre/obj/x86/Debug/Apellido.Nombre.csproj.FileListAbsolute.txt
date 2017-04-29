@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\bin\Debug\Apellido.Nombre.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.Form1.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.pdb
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.exe
+D:\EstebanJoaquin\2016_Segundo_Parcial_Lab_III\Apellido.Nombre\obj\x86\Debug\Apellido.Nombre.pdb

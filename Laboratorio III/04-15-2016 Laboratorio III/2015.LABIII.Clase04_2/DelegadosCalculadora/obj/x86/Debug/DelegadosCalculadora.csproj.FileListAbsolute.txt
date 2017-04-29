@@ -1,0 +1,12 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase04_2\DelegadosCalculadora\bin\Debug\DelegadosCalculadora.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase04_2\DelegadosCalculadora\bin\Debug\DelegadosCalculadora.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB3PC-PROFESOR\Desktop\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.exe
+C:\Users\profesor.LAB3PC-PROFESOR\Desktop\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.pdb
+C:\Users\profesor.LAB3PC-PROFESOR\Desktop\2015.LABIII.Clase04_2\DelegadosCalculadora\bin\Debug\DelegadosCalculadora.exe
+C:\Users\profesor.LAB3PC-PROFESOR\Desktop\2015.LABIII.Clase04_2\DelegadosCalculadora\bin\Debug\DelegadosCalculadora.pdb
+C:\Users\profesor.LAB3PC-PROFESOR\Desktop\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.csprojResolveAssemblyReference.cache
+E:\Joako\FACU\Laboratorio\04-15-2016 Laboratorio III\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.exe
+E:\Joako\FACU\Laboratorio\04-15-2016 Laboratorio III\2015.LABIII.Clase04_2\DelegadosCalculadora\obj\x86\Debug\DelegadosCalculadora.pdb

@@ -1,0 +1,23 @@
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\bin\Debug\frmPruebaControles.exe.config
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\bin\Debug\frmPruebaControles.exe
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\bin\Debug\frmPruebaControles.pdb
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\bin\Debug\HerenciaDeControles.dll
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\bin\Debug\HerenciaDeControles.pdb
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.csprojResolveAssemblyReference.cache
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.Form1.resources
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.Properties.Resources.resources
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.csproj.GenerateResource.Cache
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.exe
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.pdb
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\bin\Debug\frmPruebaControles.exe.config
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.exe
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.pdb
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\bin\Debug\frmPruebaControles.exe
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\bin\Debug\frmPruebaControles.pdb
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\bin\Debug\HerenciaDeControles.dll
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\bin\Debug\HerenciaDeControles.pdb
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.csprojResolveAssemblyReference.cache
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.Form1.resources
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.Properties.Resources.resources
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.csproj.GenerateResource.Cache
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\Esteban.Joaquin.Ignacio\frmPruebaControles\obj\Debug\frmPruebaControles.UsrTateti.resources

@@ -1,0 +1,27 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe.config
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.csprojResolveAssemblyReference.cache
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.frmDatos.resources
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.frmPrincipal.resources
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.Properties.Resources.resources
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.csproj.GenerateResource.Cache
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\bin\Debug\Entidades.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\bin\Debug\Entidades.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.exe
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.frmMostrar.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe.config
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\bin\Debug\Entidades.dll
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\bin\Debug\Entidades.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.csprojResolveAssemblyReference.cache
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.frmDatos.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.frmMostrar.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.frmPrincipal.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.Properties.Resources.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.csproj.GenerateResource.Cache
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase13 modelo 2pp\Modelo.SP\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.frmLegajo.resources

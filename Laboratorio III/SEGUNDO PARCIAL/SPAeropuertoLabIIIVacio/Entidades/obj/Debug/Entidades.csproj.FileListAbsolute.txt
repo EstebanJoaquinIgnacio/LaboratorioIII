@@ -1,0 +1,9 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\SPAeropuertoLabIII\Entidades\bin\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\SPAeropuertoLabIII\Entidades\bin\Debug\Entidades.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\SPAeropuertoLabIII\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\SPAeropuertoLabIII\Entidades\obj\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\SPAeropuertoLabIII\Entidades\obj\Debug\Entidades.pdb
+D:\Esteban Joaquin\SPAeropuertoLabIIIVacio\Entidades\bin\Debug\Entidades.dll
+D:\Esteban Joaquin\SPAeropuertoLabIIIVacio\Entidades\bin\Debug\Entidades.pdb
+D:\Esteban Joaquin\SPAeropuertoLabIIIVacio\Entidades\obj\Debug\Entidades.dll
+D:\Esteban Joaquin\SPAeropuertoLabIIIVacio\Entidades\obj\Debug\Entidades.pdb

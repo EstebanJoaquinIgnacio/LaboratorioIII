@@ -1,0 +1,30 @@
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\frmPrincipal.exe
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\frmPrincipal.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\Entidades.dll
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\Entidades.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.csprojResolveAssemblyReference.cache
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.frmAnimal.resources
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.frmMascota.resources
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.frmPrincipal.resources
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.csproj.GenerateResource.Cache
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.exe
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.exe
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\frmPrincipal.exe
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\frmPrincipal.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\Entidades.dll
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\Entidades.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.csprojResolveAssemblyReference.cache
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.frmAnimal.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.frmMascota.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.frmPrincipal.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.csproj.GenerateResource.Cache
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.frmMostrar.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\ModeloPrimerParcial\frmPrincipal\obj\Debug\frmPrincipal.pdb

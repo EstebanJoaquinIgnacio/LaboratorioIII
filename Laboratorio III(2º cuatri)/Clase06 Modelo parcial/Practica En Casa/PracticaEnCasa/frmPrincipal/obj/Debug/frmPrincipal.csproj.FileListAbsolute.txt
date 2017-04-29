@@ -1,0 +1,11 @@
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\obj\Debug\frmPrincipal.csprojResolveAssemblyReference.cache
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\obj\Debug\frmPrincipal.FrmAnimal.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\obj\Debug\frmPrincipal.csproj.GenerateResource.Cache
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\bin\Debug\frmPrincipal.exe
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\bin\Debug\frmPrincipal.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\obj\Debug\frmPrincipal.exe
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\obj\Debug\frmPrincipal.pdb
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\obj\Debug\frmPrincipal.formPrincipal.resources
+E:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase06 Modelo parcial\Practica En Casa\PracticaEnCasa\frmPrincipal\obj\Debug\frmPrincipal.FrmMascota.resources

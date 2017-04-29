@@ -1,0 +1,14 @@
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\bin\Debug\Entidades.dll
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\bin\Debug\Entidades.pri
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\Entidades.dll
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\priconfig.xml.intermediate
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\layout.resfiles.intermediate
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\resources.resfiles.intermediate
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\pri.resfiles.intermediate
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\priconfig.xml
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\layout.resfiles
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\resources.resfiles
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\pri.resfiles
+C:\Users\Progenitus\AppData\Local\Temporary Projects\Entidades\obj\Debug\LanguageQualifiers.txt

@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\bin\Debug\Esteban.Joaquin.Ignacio.exe.config
+C:\Users\alumno\Desktop\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\obj\Debug\Esteban.Joaquin.Ignacio.Form1.resources
+C:\Users\alumno\Desktop\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\obj\Debug\Esteban.Joaquin.Ignacio.Properties.Resources.resources
+C:\Users\alumno\Desktop\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\obj\Debug\Esteban.Joaquin.Ignacio.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\bin\Debug\Esteban.Joaquin.Ignacio.exe
+C:\Users\alumno\Desktop\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\bin\Debug\Esteban.Joaquin.Ignacio.pdb
+C:\Users\alumno\Desktop\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\obj\Debug\Esteban.Joaquin.Ignacio.exe
+C:\Users\alumno\Desktop\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\obj\Debug\Esteban.Joaquin.Ignacio.pdb
+G:\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\bin\Debug\Esteban.Joaquin.Ignacio.exe.config
+G:\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\obj\Debug\Esteban.Joaquin.Ignacio.exe
+G:\Esteban.Joaquin.Ignacio\Esteban.Joaquin.Ignacio\obj\Debug\Esteban.Joaquin.Ignacio.pdb

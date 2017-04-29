@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_DataTable", "01_DataTable\01_DataTable.csproj", "{EEC064E4-4852-4AA8-A704-BB262A3C468F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DataSet", "02_DataSet\02_DataSet.csproj", "{60E898B8-8BD6-49E0-AE28-520D70004AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC064E4-4852-4AA8-A704-BB262A3C468F}.Debug|x86.ActiveCfg = Debug|x86
+		{EEC064E4-4852-4AA8-A704-BB262A3C468F}.Debug|x86.Build.0 = Debug|x86
+		{EEC064E4-4852-4AA8-A704-BB262A3C468F}.Release|x86.ActiveCfg = Release|x86
+		{EEC064E4-4852-4AA8-A704-BB262A3C468F}.Release|x86.Build.0 = Release|x86
+		{60E898B8-8BD6-49E0-AE28-520D70004AAD}.Debug|x86.ActiveCfg = Debug|x86
+		{60E898B8-8BD6-49E0-AE28-520D70004AAD}.Debug|x86.Build.0 = Debug|x86
+		{60E898B8-8BD6-49E0-AE28-520D70004AAD}.Release|x86.ActiveCfg = Release|x86
+		{60E898B8-8BD6-49E0-AE28-520D70004AAD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Esteban Joaquin\Esteban.Joaquin.Ignacio\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+D:\Esteban Joaquin\Esteban.Joaquin.Ignacio\frmPrincipal\bin\Debug\frmPrincipal.exe
+D:\Esteban Joaquin\Esteban.Joaquin.Ignacio\frmPrincipal\bin\Debug\frmPrincipal.pdb
+D:\Esteban Joaquin\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.csprojResolveAssemblyReference.cache
+D:\Esteban Joaquin\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+D:\Esteban Joaquin\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.csproj.GenerateResource.Cache
+D:\Esteban Joaquin\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.exe
+D:\Esteban Joaquin\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.pdb
+D:\Esteban Joaquin\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.frmPrincipal.resources
+D:\Esteban Joaquin\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.Modificacion.resources

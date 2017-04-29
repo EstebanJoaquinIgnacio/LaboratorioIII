@@ -1,0 +1,5 @@
+D:\UTN\Laboratorio III\MSP\MSP\Entidades\bin\Debug\Entidades.dll
+D:\UTN\Laboratorio III\MSP\MSP\Entidades\bin\Debug\Entidades.pdb
+D:\UTN\Laboratorio III\MSP\MSP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\UTN\Laboratorio III\MSP\MSP\Entidades\obj\Debug\Entidades.dll
+D:\UTN\Laboratorio III\MSP\MSP\Entidades\obj\Debug\Entidades.pdb

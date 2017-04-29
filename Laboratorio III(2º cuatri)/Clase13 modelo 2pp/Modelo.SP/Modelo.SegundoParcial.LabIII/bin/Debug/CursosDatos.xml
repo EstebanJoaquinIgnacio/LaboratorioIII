@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Cursos>
+    <Codigo>1000</Codigo>
+    <Duracion>20</Duracion>
+    <Nombre>Matematicas</Nombre>
+  </Cursos>
+  <Cursos>
+    <Codigo>1005</Codigo>
+    <Duracion>15</Duracion>
+    <Nombre>Ingles</Nombre>
+  </Cursos>
+  <Cursos>
+    <Codigo>1010</Codigo>
+    <Duracion>40</Duracion>
+    <Nombre>Folklore</Nombre>
+  </Cursos>
+</DocumentElement>

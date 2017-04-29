@@ -1,0 +1,12 @@
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase11\DataGripView\DataGripView\bin\Debug\DataGripView.exe.config
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase11\DataGripView\DataGripView\obj\Debug\DataGripView.Form1.resources
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase11\DataGripView\DataGripView\obj\Debug\DataGripView.Properties.Resources.resources
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase11\DataGripView\DataGripView\obj\Debug\DataGripView.csproj.GenerateResource.Cache
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase11\DataGripView\DataGripView\bin\Debug\DataGripView.exe
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase11\DataGripView\DataGripView\bin\Debug\DataGripView.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase11\DataGripView\DataGripView\obj\Debug\DataGripView.exe
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase11\DataGripView\DataGripView\obj\Debug\DataGripView.pdb
+D:\Esteban Joaquin\Laboratorio III (2º cuatri)\Clase11\DataGripView\DataGripView\obj\Debug\DataGripView.frmAlta.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase11\DataGripView\DataGripView\bin\Debug\DataGripView.exe.config
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase11\DataGripView\DataGripView\obj\Debug\DataGripView.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase11\DataGripView\DataGripView\obj\Debug\DataGripView.pdb

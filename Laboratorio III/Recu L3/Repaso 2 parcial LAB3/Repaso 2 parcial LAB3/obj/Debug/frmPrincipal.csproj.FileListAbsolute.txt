@@ -1,0 +1,11 @@
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\bin\Debug\frmPrincipal.exe
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\bin\Debug\frmPrincipal.pdb
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\obj\Debug\frmPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\obj\Debug\frmPrincipal.csproj.GenerateResource.Cache
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\obj\Debug\frmPrincipal.exe
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\obj\Debug\frmPrincipal.pdb
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\obj\Debug\frmPrincipal.frmArticulo.resources
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\obj\Debug\frmPrincipal.frmPrincipal.resources
+C:\Users\Progenitus\AppData\Local\Temporary Projects\frmPrincipal\obj\Debug\frmPrincipal.frmMarcaABorrar.resources

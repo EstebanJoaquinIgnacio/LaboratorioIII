@@ -1,0 +1,18 @@
+E:\Laboratorio y Programacion\Laboratorio III(2º cuatri)\Clase08\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\bin\Debug\Ejercicio GetParent-GetChild-Select.exe.config
+E:\Laboratorio y Programacion\Laboratorio III(2º cuatri)\Clase08\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio GetParent-GetChild-Select.csprojResolveAssemblyReference.cache
+E:\Laboratorio y Programacion\Laboratorio III(2º cuatri)\Clase08\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio_GetParent_GetChild_Select.frmPrincipal.resources
+E:\Laboratorio y Programacion\Laboratorio III(2º cuatri)\Clase08\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio_GetParent_GetChild_Select.Properties.Resources.resources
+E:\Laboratorio y Programacion\Laboratorio III(2º cuatri)\Clase08\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio GetParent-GetChild-Select.csproj.GenerateResource.Cache
+E:\Laboratorio y Programacion\Laboratorio III(2º cuatri)\Clase08\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\bin\Debug\Ejercicio GetParent-GetChild-Select.exe
+E:\Laboratorio y Programacion\Laboratorio III(2º cuatri)\Clase08\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\bin\Debug\Ejercicio GetParent-GetChild-Select.pdb
+E:\Laboratorio y Programacion\Laboratorio III(2º cuatri)\Clase08\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio GetParent-GetChild-Select.exe
+E:\Laboratorio y Programacion\Laboratorio III(2º cuatri)\Clase08\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio GetParent-GetChild-Select.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase09\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\bin\Debug\Ejercicio GetParent-GetChild-Select.exe.config
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase09\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio GetParent-GetChild-Select.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase09\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio GetParent-GetChild-Select.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase09\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\bin\Debug\Ejercicio GetParent-GetChild-Select.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase09\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\bin\Debug\Ejercicio GetParent-GetChild-Select.pdb
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase09\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio GetParent-GetChild-Select.csprojResolveAssemblyReference.cache
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase09\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio_GetParent_GetChild_Select.frmPrincipal.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase09\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio_GetParent_GetChild_Select.Properties.Resources.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase09\Ejercicio GetParent-GetChild-Select\Ejercicio GetParent-GetChild-Select\obj\Debug\Ejercicio GetParent-GetChild-Select.csproj.GenerateResource.Cache

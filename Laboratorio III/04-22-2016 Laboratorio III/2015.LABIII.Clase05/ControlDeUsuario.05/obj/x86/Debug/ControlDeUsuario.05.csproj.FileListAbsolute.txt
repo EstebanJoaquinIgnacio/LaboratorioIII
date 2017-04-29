@@ -1,0 +1,25 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\bin\Debug\ControlDeUsuario.05.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\bin\Debug\ControlDeUsuario.05.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.frmUserControl.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.usrConvertidorCF.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.pdb
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.05\bin\Debug\ControlDeUsuario.05.exe
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.05\bin\Debug\ControlDeUsuario.05.pdb
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.frmUserControl.resources
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.Properties.Resources.resources
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.usrConvertidorCF.resources
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.csproj.GenerateResource.Cache
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.exe
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.pdb
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.05\bin\Debug\ControlDeUsuario.05.exe
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.05\bin\Debug\ControlDeUsuario.05.pdb
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.csprojResolveAssemblyReference.cache
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.frmUserControl.resources
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.Properties.Resources.resources
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario._05.usrConvertidorCF.resources
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.csproj.GenerateResource.Cache
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.exe
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.05\obj\x86\Debug\ControlDeUsuario.05.pdb

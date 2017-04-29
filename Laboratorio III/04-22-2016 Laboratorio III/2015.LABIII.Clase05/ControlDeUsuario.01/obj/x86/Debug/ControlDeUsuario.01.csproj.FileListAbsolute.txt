@@ -1,0 +1,32 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\ControlDeUsuario.01.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\ControlDeUsuario.01.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\MisControles.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\MisControles.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario._01.frmHerenciaDeControles.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario._01.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.csprojResolveAssemblyReference.cache
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.exe
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.pdb
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\ControlDeUsuario.01.exe
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\ControlDeUsuario.01.pdb
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\MisControles.dll
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\MisControles.pdb
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.csprojResolveAssemblyReference.cache
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario._01.frmHerenciaDeControles.resources
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario._01.Properties.Resources.resources
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.csproj.GenerateResource.Cache
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.exe
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.pdb
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\ControlDeUsuario.01.exe
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\ControlDeUsuario.01.pdb
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\MisControles.dll
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\bin\Debug\MisControles.pdb
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.csprojResolveAssemblyReference.cache
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario._01.frmHerenciaDeControles.resources
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario._01.Properties.Resources.resources
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.csproj.GenerateResource.Cache
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.exe
+E:\Joako\FACU\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\ControlDeUsuario.01\obj\x86\Debug\ControlDeUsuario.01.pdb

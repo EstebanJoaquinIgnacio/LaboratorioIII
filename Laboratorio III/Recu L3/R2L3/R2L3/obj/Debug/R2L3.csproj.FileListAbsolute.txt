@@ -1,0 +1,8 @@
+E:\Descargas\Recu L3\R2L3\R2L3\bin\Debug\R2L3.dll
+E:\Descargas\Recu L3\R2L3\R2L3\bin\Debug\R2L3.pdb
+E:\Descargas\Recu L3\R2L3\R2L3\obj\Debug\R2L3.csprojResolveAssemblyReference.cache
+E:\Descargas\Recu L3\R2L3\R2L3\obj\Debug\ClassLibrary1.frmArticulo.resources
+E:\Descargas\Recu L3\R2L3\R2L3\obj\Debug\ClassLibrary1.frmPrincipal.resources
+E:\Descargas\Recu L3\R2L3\R2L3\obj\Debug\R2L3.csproj.GenerateResource.Cache
+E:\Descargas\Recu L3\R2L3\R2L3\obj\Debug\R2L3.dll
+E:\Descargas\Recu L3\R2L3\R2L3\obj\Debug\R2L3.pdb

@@ -1,0 +1,15 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\02_DataSet\obj\x86\Debug\_02_DataSet.frmPrincipal.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\02_DataSet\obj\x86\Debug\_02_DataSet.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\02_DataSet\obj\x86\Debug\02_DataSet.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\02_DataSet\bin\Debug\02_DataSet.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\02_DataSet\bin\Debug\02_DataSet.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\02_DataSet\obj\x86\Debug\02_DataSet.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\02_DataSet\obj\x86\Debug\02_DataSet.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\02_DataSet\obj\x86\Debug\02_DataSet.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\02_DataSet\obj\x86\Debug\02_DataSet.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\02_DataSet\bin\Debug\02_DataSet.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\02_DataSet\bin\Debug\02_DataSet.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\02_DataSet\obj\x86\Debug\02_DataSet.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\02_DataSet\obj\x86\Debug\_02_DataSet.frmPrincipal.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\02_DataSet\obj\x86\Debug\_02_DataSet.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\02_DataSet\obj\x86\Debug\02_DataSet.csproj.GenerateResource.Cache

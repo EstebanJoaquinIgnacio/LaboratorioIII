@@ -1,0 +1,13 @@
+D:\Esteban Joaquin\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\bin\Debug\Clase12_JOA.exe.config
+D:\Esteban Joaquin\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\bin\Debug\Clase12_JOA.exe
+D:\Esteban Joaquin\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\bin\Debug\Clase12_JOA.pdb
+D:\Esteban Joaquin\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\obj\Debug\Clase12_JOA.csprojResolveAssemblyReference.cache
+D:\Esteban Joaquin\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\obj\Debug\Clase12_JOA.frmPrincipal.resources
+D:\Esteban Joaquin\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\obj\Debug\Clase12_JOA.Properties.Resources.resources
+D:\Esteban Joaquin\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\obj\Debug\Clase12_JOA.csproj.GenerateResource.Cache
+D:\Esteban Joaquin\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\obj\Debug\Clase12_JOA.exe
+D:\Esteban Joaquin\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\obj\Debug\Clase12_JOA.pdb
+D:\Esteban Joaquin\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\obj\Debug\Clase12_JOA.frmUpdate.resources
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\bin\Debug\Clase12_JOA.exe.config
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\obj\Debug\Clase12_JOA.exe
+D:\Joako\FACU\Laboratorio\Laboratorio III(2º cuatri)\Clase12\Clase12_JOA\Clase12_JOA\obj\Debug\Clase12_JOA.pdb

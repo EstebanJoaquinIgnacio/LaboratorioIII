@@ -1,0 +1,4 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\MisControles\bin\Debug\MisControles.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\MisControles\bin\Debug\MisControles.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\MisControles\obj\Debug\MisControles.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\MisControles\obj\Debug\MisControles.pdb

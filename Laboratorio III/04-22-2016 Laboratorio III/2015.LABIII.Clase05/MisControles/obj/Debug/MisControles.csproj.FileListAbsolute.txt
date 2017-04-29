@@ -1,0 +1,14 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\MisControles\bin\Debug\MisControles.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\MisControles\bin\Debug\MisControles.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\MisControles\obj\Debug\MisControles.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\MisControles\obj\Debug\MisControles.pdb
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\MisControles\bin\Debug\MisControles.dll
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\MisControles\bin\Debug\MisControles.pdb
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\MisControles\obj\Debug\MisControles.csprojResolveAssemblyReference.cache
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\MisControles\obj\Debug\MisControles.dll
+C:\Users\profesor\Desktop\2015.LABIII.Clase05\MisControles\obj\Debug\MisControles.pdb
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\MisControles\bin\Debug\MisControles.dll
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\MisControles\bin\Debug\MisControles.pdb
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\MisControles\obj\Debug\MisControles.csprojResolveAssemblyReference.cache
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\MisControles\obj\Debug\MisControles.dll
+D:\Esteban Joaquin\Laboratorio\04-22-2016 Laboratorio III\2015.LABIII.Clase05\MisControles\obj\Debug\MisControles.pdb

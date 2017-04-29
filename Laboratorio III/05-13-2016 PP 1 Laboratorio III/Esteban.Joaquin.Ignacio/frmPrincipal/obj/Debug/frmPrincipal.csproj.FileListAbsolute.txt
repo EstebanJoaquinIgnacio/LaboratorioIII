@@ -1,0 +1,14 @@
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\bin\Debug\frmPrincipal.exe
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\bin\Debug\frmPrincipal.pdb
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\bin\Debug\Entidades.OffShore.dll
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.frmCuenta.resources
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.csproj.GenerateResource.Cache
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.exe
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.pdb
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.frmCuentaOffShore.resources
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.frmPrincipal.resources
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\bin\Debug\ControlesMios.dll
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\bin\Debug\ControlesMios.pdb
+D:\Esteban Joaquin\Laboratorio\PP 1 Laboratorio III\Esteban.Joaquin.Ignacio\frmPrincipal\obj\Debug\frmPrincipal.csprojResolveAssemblyReference.cache
